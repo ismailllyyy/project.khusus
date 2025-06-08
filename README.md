@@ -44,7 +44,7 @@
                 <div id="stiker2" class="scale0 stiker">
                     <img src="https://feeldreams.github.io/peachspeech.gif" />
                 </div>
-                <h1 id="teks2" class="scale0 quicksand" style="font-size: 18px;">makasih sudah bertahan sampai sejauh ini sama sikapku,<br><br>jadi harus diapresiasikan ahahah<br>SELAMAT ATAS PENCAPAIANNYA<br><br>uhuyyy!!! >>>></h1>
+                <h1 id="teks2" class="scale0 quicksand" style="font-size: 18px;">makasih sudah bertahan sampai sejauh ini sama sikapku,<br><br>jadi harus diapresiasikan ahahah<br>SELAMAT ATAS PENCAPAIANNYA<br><bt>uhuyyy!!! >>>></h1>
             </div>
 
             <div class="swiper-slide">
