@@ -1,4 +1,4 @@
-#<!DOCTYPE html>
+#<!DOCTYPE html>#
 <html lang="en">
 
 <head>
@@ -69,7 +69,7 @@
                     <img id="stikerAkhir3" class="hidden" src="https://feeldreams.github.io/peach1.gif" />
                 </div>
                 <div id="scroll-container" class="blocktext">
-                    <h1 id="teks4" class="scale0 quicksand" style="font-size: 17px;font-weight:400"><b style="font-size:20px;font-weight:700">sekali lagi makasih sayangkuu<br>kusayangki lebih dari apapun,<br>maaf nah belum bisaka kasiki yang terbaik <br>maaf masih seringka kecewakanki,maaf sekali!!!!!</h1>
+                    <h1 id="teks4" class="scale0 quicksand" style="font-size: 17px;font-weight:400"><b style="font-size:20px;font-weight:700">sekali lagi makasih sayangkuu<br>kusayangki lebih dari apapun,<br>maaf nah belum bisaka kasiki yang terbaik <br>maaf masih seringka kecewakanki,maaf sekali!!!!!<bt></h1>
                     <h1 id="teksTambahan" class="hidden"><span id="teksLove">I Love You Dheaaa</span></h1>
                     <!-- Emoji Bisa Lebih dari 1 -->
                     <script>const emojiAcak = ['💖', '❤️', '🧡', '💜', '🩵', '💚', '💙', '🤍', '💛', '🩷']</script>
