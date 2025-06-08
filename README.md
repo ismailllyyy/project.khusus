@@ -44,7 +44,7 @@
                 <div id="stiker2" class="scale0 stiker">
                     <img src="https://feeldreams.github.io/peachspeech.gif" />
                 </div>
-                <h1 id="teks2" class="scale0 quicksand" style="font-size: 18px;">makasih sudah bertahan sampai sejauh ini sama sikapku,<br><br>jadi harus diapresiasikan ahahah<br>SELAMAT ATAS PENCAPAIANNYA<br><bt>uhuyyy!!! >>>></h1>
+                <h1 id="teks2" class="scale0 quicksand" style="font-size: 18px;">makasih sudah bertahan sampai sejauh ini sama sikapku,<br><br>jadi harus diapresiasikan ahahah<br>SELAMAT ATAS PENCAPAIANNYA<br><br>uhuyyy!!! >>>></h1>
             </div>
 
             <div class="swiper-slide">
@@ -57,7 +57,7 @@
 				        <div class="sub-title">Orang paling baik,sabar dan lucu</div>
 				        <div class="content">Diberikan khusus kepada</div>
 				        <h1 style="font-size:25px;margin:5px;text-decoration: underline;text-decoration-color:pink">DHEA ARTIKA</h1>
-				        <div class="content">Makasih sudah jadi bagian dari hidupku<br>makasih juga sudah sabar hadapika selama ini,<br>sayangki.</bt>.</div>
+				        <div class="content">Makasih sudah jadi bagian dari hidupku<br>makasih juga sudah sabar hadapika selama ini,<br>sayangki.<br>.</div>
 				    </div>
 				</div>
             </div>
